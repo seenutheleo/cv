@@ -1,0 +1,17 @@
+body{
+background-color: aqua;
+
+}
+
+hr {
+    line-height: 5%;
+    list-style: dotted;
+    border-radius: 5%;
+    border-top-style: dotted;
+    width: 5%;
+}
+
+h1{
+    color: rgb(102, 0, 255);
+    font-size: medium;
+}
